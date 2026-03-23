@@ -1,0 +1,11 @@
+title: "behavioral-economics-nudging-savings-dataset"
+description: "Dataset on behavioral economics interventions and nudging strategies to promote savings behavior."
+url: "https://juanmoisesd.github.io"
+baseurl: "/behavioral-economics-nudging-savings-dataset"
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+plugins:
+  - jekyll-seo-tag
+theme: minima
